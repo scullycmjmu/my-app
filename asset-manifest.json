@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scullycmjmu/my-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/scullycmjmu/my-app.git/static/js/main.a36a76c6.chunk.js",
+    "main.js.map": "/scullycmjmu/my-app.git/static/js/main.a36a76c6.chunk.js.map",
+    "runtime-main.js": "/scullycmjmu/my-app.git/static/js/runtime-main.377f6166.js",
+    "runtime-main.js.map": "/scullycmjmu/my-app.git/static/js/runtime-main.377f6166.js.map",
+    "static/js/2.2377b599.chunk.js": "/scullycmjmu/my-app.git/static/js/2.2377b599.chunk.js",
+    "static/js/2.2377b599.chunk.js.map": "/scullycmjmu/my-app.git/static/js/2.2377b599.chunk.js.map",
+    "index.html": "/scullycmjmu/my-app.git/index.html",
+    "precache-manifest.3b2f72e834f8a275789ed22ce5979f66.js": "/scullycmjmu/my-app.git/precache-manifest.3b2f72e834f8a275789ed22ce5979f66.js",
+    "service-worker.js": "/scullycmjmu/my-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/scullycmjmu/my-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2377b599.chunk.js.LICENSE.txt": "/scullycmjmu/my-app.git/static/js/2.2377b599.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/scullycmjmu/my-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.377f6166.js",
+    "static/js/2.2377b599.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a36a76c6.chunk.js"
+  ]
+}
